@@ -2,8 +2,9 @@
   "redirects": [
     {
       "source": "/noc/E_Certificate/NPTEL25MG73S1252804481",
-      "destination": "https://drive.google.com/file/d/1q2Mn_sbAy07P8Qn9gb6_vLlWfChh6DVJ/view?usp=sharing",
+      "destination": "https://raw.githubusercontent.com/hrishikesh-be/nptel_aoc/8f8d4eed0689cb5fcad9eaf43204d0d98b0d4370/NPTEL25MG73S1252804481.pdf.pdf",
       "permanent": true
     }
   ]
 }
+
